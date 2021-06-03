@@ -79,12 +79,4 @@ add(2,3)
 *   @babel/parser 解析代码中生成的 AST(Abstract Syntax Tree, AST) 抽象语法树
 *   @babel/traverse 对抽象语法树（AST）节点进行递归遍历
 
-#### webpack.js 解析
-```mermaid
-graph TD
-    id[带文本的矩形]
-    id4(带文本的圆角矩形)
-    id3>带文本的不对称的矩形]
-    id1{带文本的菱形}
-    id2((带文本的圆形))
-```
+#### [webpack.js 详细解析，见个人 github blog](https://helenzhanglp.github.io/)
