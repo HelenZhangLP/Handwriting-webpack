@@ -1,0 +1,17 @@
+{
+  "name": "webpack-manual",
+  "version": "1.0.0",
+  "description": "手写webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "helen_zlp",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/parser": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/traverse": "^7.14.2"
+  }
+}
